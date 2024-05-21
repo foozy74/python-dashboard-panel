@@ -46,7 +46,7 @@ pyrsistent==0.18.1
 python-dateutil==2.8.2
 python-dotenv==0.19.2
 pytz==2022.1
-requests==2.27.1
+requests==2.32.0
 rich==9.13.0
 rlp==2.0.1
 six==1.16.0
