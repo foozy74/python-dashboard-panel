@@ -54,7 +54,7 @@ tomlkit==0.10.1
 toolz==0.11.2
 typing-extensions==3.10.0.2
 uniswap-python==0.5.5
-urllib3==1.26.8
+urllib3==1.26.19
 varint==1.0.2
 virtualenv==20.10.0
 virtualenv-clone==0.5.7
