@@ -39,7 +39,7 @@ pipenv==2021.11.23
 pipenv-poetry-migrate==0.2.0
 platformdirs==2.4.0
 polygonscan-python==1.0.2
-protobuf==3.19.4
+protobuf==6.33.5
 pycryptodome==3.13.0
 Pygments==2.11.2
 pyrsistent==0.18.1
